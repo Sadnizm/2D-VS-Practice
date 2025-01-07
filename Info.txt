@@ -1,0 +1,3 @@
+Practicing visual scripting in Unity 2D with this tutorial:
+Udemy - Making A 2D Platformer With Visual Scripting In Unity!
+https://www.udemy.com/course/vk2dvisualscritingcource/
